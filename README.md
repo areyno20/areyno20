@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=areyno20" alt="areyno20" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [www.areynolds.net](www.areynolds.net)
+- 👨‍💻 All of my projects are available at www.areynolds.net
 
 - 📫 How to reach me **aidanreynolds715@gmail.com**
 
